@@ -1,0 +1,7 @@
+{
+  "name": "pokemon-desktop-pet",
+  "version": "0.8.0",
+  "description": "在 Electron 工作台窗口里养一队会走动的宝可梦桌宠，并用 TCG 卡牌插画装饰背景。支持队伍、投喂、亲密度、进化、训练家、卡牌收藏、提醒和 Windows 独立桌宠；兼容 macOS 与 Windows。本仓库为适配 DeepSeek Harness 的补丁版本。",
+  "license": "MIT",
+  "keywords": ["pokemon", "desktop-pet", "electron", "deepseek-harness", "skill", "tcg"]
+}

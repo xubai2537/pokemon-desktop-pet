@@ -1,0 +1,1145 @@
+{
+  "0019-a": {
+    "base": "0019",
+    "kind": "alola",
+    "slug": "rattata-alola",
+    "zh": "小拉达(阿罗拉)",
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "height": 3,
+    "weight": 38,
+    "api": 10091
+  },
+  "0020-a": {
+    "base": "0020",
+    "kind": "alola",
+    "slug": "raticate-alola",
+    "zh": "拉达(阿罗拉)",
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "height": 7,
+    "weight": 255,
+    "api": 10092
+  },
+  "0026-a": {
+    "base": "0026",
+    "kind": "alola",
+    "slug": "raichu-alola",
+    "zh": "雷丘(阿罗拉)",
+    "types": [
+      "electric",
+      "psychic"
+    ],
+    "height": 7,
+    "weight": 210,
+    "api": 10100
+  },
+  "0027-a": {
+    "base": "0027",
+    "kind": "alola",
+    "slug": "sandshrew-alola",
+    "zh": "穿山鼠(阿罗拉)",
+    "types": [
+      "ice",
+      "steel"
+    ],
+    "height": 7,
+    "weight": 400,
+    "api": 10101
+  },
+  "0028-a": {
+    "base": "0028",
+    "kind": "alola",
+    "slug": "sandslash-alola",
+    "zh": "穿山王(阿罗拉)",
+    "types": [
+      "ice",
+      "steel"
+    ],
+    "height": 12,
+    "weight": 550,
+    "api": 10102
+  },
+  "0037-a": {
+    "base": "0037",
+    "kind": "alola",
+    "slug": "vulpix-alola",
+    "zh": "六尾(阿罗拉)",
+    "types": [
+      "ice"
+    ],
+    "height": 6,
+    "weight": 99,
+    "api": 10103
+  },
+  "0038-a": {
+    "base": "0038",
+    "kind": "alola",
+    "slug": "ninetales-alola",
+    "zh": "九尾(阿罗拉)",
+    "types": [
+      "ice",
+      "fairy"
+    ],
+    "height": 11,
+    "weight": 199,
+    "api": 10104
+  },
+  "0050-a": {
+    "base": "0050",
+    "kind": "alola",
+    "slug": "diglett-alola",
+    "zh": "地鼠(阿罗拉)",
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "height": 2,
+    "weight": 10,
+    "api": 10105
+  },
+  "0051-a": {
+    "base": "0051",
+    "kind": "alola",
+    "slug": "dugtrio-alola",
+    "zh": "三地鼠(阿罗拉)",
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "height": 7,
+    "weight": 666,
+    "api": 10106
+  },
+  "0052-a": {
+    "base": "0052",
+    "kind": "alola",
+    "slug": "meowth-alola",
+    "zh": "喵喵(阿罗拉)",
+    "types": [
+      "dark"
+    ],
+    "height": 4,
+    "weight": 42,
+    "api": 10107
+  },
+  "0053-a": {
+    "base": "0053",
+    "kind": "alola",
+    "slug": "persian-alola",
+    "zh": "猫老大(阿罗拉)",
+    "types": [
+      "dark"
+    ],
+    "height": 11,
+    "weight": 330,
+    "api": 10108
+  },
+  "0074-a": {
+    "base": "0074",
+    "kind": "alola",
+    "slug": "geodude-alola",
+    "zh": "小拳石(阿罗拉)",
+    "types": [
+      "rock",
+      "electric"
+    ],
+    "height": 4,
+    "weight": 203,
+    "api": 10109
+  },
+  "0075-a": {
+    "base": "0075",
+    "kind": "alola",
+    "slug": "graveler-alola",
+    "zh": "隆隆石(阿罗拉)",
+    "types": [
+      "rock",
+      "electric"
+    ],
+    "height": 10,
+    "weight": 1100,
+    "api": 10110
+  },
+  "0076-a": {
+    "base": "0076",
+    "kind": "alola",
+    "slug": "golem-alola",
+    "zh": "隆隆岩(阿罗拉)",
+    "types": [
+      "rock",
+      "electric"
+    ],
+    "height": 17,
+    "weight": 3160,
+    "api": 10111
+  },
+  "0088-a": {
+    "base": "0088",
+    "kind": "alola",
+    "slug": "grimer-alola",
+    "zh": "臭泥(阿罗拉)",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "height": 7,
+    "weight": 420,
+    "api": 10112
+  },
+  "0089-a": {
+    "base": "0089",
+    "kind": "alola",
+    "slug": "muk-alola",
+    "zh": "臭臭泥(阿罗拉)",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "height": 10,
+    "weight": 520,
+    "api": 10113
+  },
+  "0103-a": {
+    "base": "0103",
+    "kind": "alola",
+    "slug": "exeggutor-alola",
+    "zh": "椰蛋树(阿罗拉)",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "height": 109,
+    "weight": 4156,
+    "api": 10114
+  },
+  "0105-a": {
+    "base": "0105",
+    "kind": "alola",
+    "slug": "marowak-alola",
+    "zh": "嘎啦嘎啦(阿罗拉)",
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "height": 10,
+    "weight": 340,
+    "api": 10115
+  },
+  "0052-g": {
+    "base": "0052",
+    "kind": "galar",
+    "slug": "meowth-galar",
+    "zh": "喵喵(伽勒尔)",
+    "types": [
+      "steel"
+    ],
+    "height": 4,
+    "weight": 75,
+    "api": 10161
+  },
+  "0077-g": {
+    "base": "0077",
+    "kind": "galar",
+    "slug": "ponyta-galar",
+    "zh": "小火马(伽勒尔)",
+    "types": [
+      "psychic"
+    ],
+    "height": 8,
+    "weight": 240,
+    "api": 10162
+  },
+  "0078-g": {
+    "base": "0078",
+    "kind": "galar",
+    "slug": "rapidash-galar",
+    "zh": "烈焰马(伽勒尔)",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "height": 17,
+    "weight": 800,
+    "api": 10163
+  },
+  "0079-g": {
+    "base": "0079",
+    "kind": "galar",
+    "slug": "slowpoke-galar",
+    "zh": "呆呆兽(伽勒尔)",
+    "types": [
+      "psychic"
+    ],
+    "height": 12,
+    "weight": 360,
+    "api": 10164
+  },
+  "0080-g": {
+    "base": "0080",
+    "kind": "galar",
+    "slug": "slowbro-galar",
+    "zh": "呆壳兽(伽勒尔)",
+    "types": [
+      "poison",
+      "psychic"
+    ],
+    "height": 16,
+    "weight": 705,
+    "api": 10165
+  },
+  "0083-g": {
+    "base": "0083",
+    "kind": "galar",
+    "slug": "farfetchd-galar",
+    "zh": "大葱鸭(伽勒尔)",
+    "types": [
+      "fighting"
+    ],
+    "height": 8,
+    "weight": 420,
+    "api": 10166
+  },
+  "0110-g": {
+    "base": "0110",
+    "kind": "galar",
+    "slug": "weezing-galar",
+    "zh": "双弹瓦斯(伽勒尔)",
+    "types": [
+      "poison",
+      "fairy"
+    ],
+    "height": 30,
+    "weight": 160,
+    "api": 10167
+  },
+  "0122-g": {
+    "base": "0122",
+    "kind": "galar",
+    "slug": "mr-mime-galar",
+    "zh": "魔墙人偶(伽勒尔)",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "height": 14,
+    "weight": 568,
+    "api": 10168
+  },
+  "0144-g": {
+    "base": "0144",
+    "kind": "galar",
+    "slug": "articuno-galar",
+    "zh": "急冻鸟(伽勒尔)",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "height": 17,
+    "weight": 509,
+    "api": 10169
+  },
+  "0145-g": {
+    "base": "0145",
+    "kind": "galar",
+    "slug": "zapdos-galar",
+    "zh": "闪电鸟(伽勒尔)",
+    "types": [
+      "fighting",
+      "flying"
+    ],
+    "height": 16,
+    "weight": 582,
+    "api": 10170
+  },
+  "0146-g": {
+    "base": "0146",
+    "kind": "galar",
+    "slug": "moltres-galar",
+    "zh": "火焰鸟(伽勒尔)",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "height": 20,
+    "weight": 660,
+    "api": 10171
+  },
+  "0199-g": {
+    "base": "0199",
+    "kind": "galar",
+    "slug": "slowking-galar",
+    "zh": "呆呆王(伽勒尔)",
+    "types": [
+      "poison",
+      "psychic"
+    ],
+    "height": 18,
+    "weight": 795,
+    "api": 10172
+  },
+  "0222-g": {
+    "base": "0222",
+    "kind": "galar",
+    "slug": "corsola-galar",
+    "zh": "太阳珊瑚(伽勒尔)",
+    "types": [
+      "ghost"
+    ],
+    "height": 6,
+    "weight": 5,
+    "api": 10173
+  },
+  "0263-g": {
+    "base": "0263",
+    "kind": "galar",
+    "slug": "zigzagoon-galar",
+    "zh": "蛇纹熊(伽勒尔)",
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "height": 4,
+    "weight": 175,
+    "api": 10174
+  },
+  "0264-g": {
+    "base": "0264",
+    "kind": "galar",
+    "slug": "linoone-galar",
+    "zh": "直冲熊(伽勒尔)",
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "height": 5,
+    "weight": 325,
+    "api": 10175
+  },
+  "0554-g": {
+    "base": "0554",
+    "kind": "galar",
+    "slug": "darumaka-galar",
+    "zh": "火红不倒翁(伽勒尔)",
+    "types": [
+      "ice"
+    ],
+    "height": 7,
+    "weight": 400,
+    "api": 10176
+  },
+  "0555-g": {
+    "base": "0555",
+    "kind": "galar",
+    "slug": "darmanitan-galar",
+    "zh": "达摩狒狒(伽勒尔)",
+    "types": [
+      "ice"
+    ],
+    "height": 17,
+    "weight": 1200,
+    "api": 10177
+  },
+  "0562-g": {
+    "base": "0562",
+    "kind": "galar",
+    "slug": "yamask-galar",
+    "zh": "哭哭面具(伽勒尔)",
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "height": 5,
+    "weight": 15,
+    "api": 10179
+  },
+  "0618-g": {
+    "base": "0618",
+    "kind": "galar",
+    "slug": "stunfisk-galar",
+    "zh": "泥巴鱼(伽勒尔)",
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "height": 7,
+    "weight": 205,
+    "api": 10180
+  },
+  "0058-h": {
+    "base": "0058",
+    "kind": "hisui",
+    "slug": "growlithe-hisui",
+    "zh": "卡蒂狗(洗翠)",
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "height": 8,
+    "weight": 227,
+    "api": 10229
+  },
+  "0059-h": {
+    "base": "0059",
+    "kind": "hisui",
+    "slug": "arcanine-hisui",
+    "zh": "风速狗(洗翠)",
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "height": 20,
+    "weight": 1680,
+    "api": 10230
+  },
+  "0100-h": {
+    "base": "0100",
+    "kind": "hisui",
+    "slug": "voltorb-hisui",
+    "zh": "霹雳电球(洗翠)",
+    "types": [
+      "electric",
+      "grass"
+    ],
+    "height": 5,
+    "weight": 130,
+    "api": 10231
+  },
+  "0101-h": {
+    "base": "0101",
+    "kind": "hisui",
+    "slug": "electrode-hisui",
+    "zh": "顽皮雷弹(洗翠)",
+    "types": [
+      "electric",
+      "grass"
+    ],
+    "height": 12,
+    "weight": 710,
+    "api": 10232
+  },
+  "0157-h": {
+    "base": "0157",
+    "kind": "hisui",
+    "slug": "typhlosion-hisui",
+    "zh": "火暴兽(洗翠)",
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "height": 16,
+    "weight": 698,
+    "api": 10233
+  },
+  "0211-h": {
+    "base": "0211",
+    "kind": "hisui",
+    "slug": "qwilfish-hisui",
+    "zh": "千针鱼(洗翠)",
+    "types": [
+      "dark",
+      "poison"
+    ],
+    "height": 5,
+    "weight": 39,
+    "api": 10234
+  },
+  "0215-h": {
+    "base": "0215",
+    "kind": "hisui",
+    "slug": "sneasel-hisui",
+    "zh": "狃拉(洗翠)",
+    "types": [
+      "fighting",
+      "poison"
+    ],
+    "height": 9,
+    "weight": 270,
+    "api": 10235
+  },
+  "0503-h": {
+    "base": "0503",
+    "kind": "hisui",
+    "slug": "samurott-hisui",
+    "zh": "大剑鬼(洗翠)",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "height": 15,
+    "weight": 582,
+    "api": 10236
+  },
+  "0549-h": {
+    "base": "0549",
+    "kind": "hisui",
+    "slug": "lilligant-hisui",
+    "zh": "裙儿小姐(洗翠)",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "height": 12,
+    "weight": 192,
+    "api": 10237
+  },
+  "0550-h": {
+    "base": "0550",
+    "kind": "hisui",
+    "slug": "basculin-hisui",
+    "zh": "勇士鲈鱼(洗翠)",
+    "types": [
+      "water"
+    ],
+    "height": 10,
+    "weight": 180,
+    "api": 10247
+  },
+  "0570-h": {
+    "base": "0570",
+    "kind": "hisui",
+    "slug": "zorua-hisui",
+    "zh": "索罗亚(洗翠)",
+    "types": [
+      "normal",
+      "ghost"
+    ],
+    "height": 7,
+    "weight": 125,
+    "api": 10238
+  },
+  "0571-h": {
+    "base": "0571",
+    "kind": "hisui",
+    "slug": "zoroark-hisui",
+    "zh": "索罗亚克(洗翠)",
+    "types": [
+      "normal",
+      "ghost"
+    ],
+    "height": 16,
+    "weight": 730,
+    "api": 10239
+  },
+  "0628-h": {
+    "base": "0628",
+    "kind": "hisui",
+    "slug": "braviary-hisui",
+    "zh": "勇士雄鹰(洗翠)",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "height": 17,
+    "weight": 434,
+    "api": 10240
+  },
+  "0705-h": {
+    "base": "0705",
+    "kind": "hisui",
+    "slug": "sliggoo-hisui",
+    "zh": "黏美儿(洗翠)",
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "height": 7,
+    "weight": 685,
+    "api": 10241
+  },
+  "0706-h": {
+    "base": "0706",
+    "kind": "hisui",
+    "slug": "goodra-hisui",
+    "zh": "黏美龙(洗翠)",
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "height": 17,
+    "weight": 3341,
+    "api": 10242
+  },
+  "0713-h": {
+    "base": "0713",
+    "kind": "hisui",
+    "slug": "avalugg-hisui",
+    "zh": "冰岩怪(洗翠)",
+    "types": [
+      "ice",
+      "rock"
+    ],
+    "height": 14,
+    "weight": 2624,
+    "api": 10243
+  },
+  "0724-h": {
+    "base": "0724",
+    "kind": "hisui",
+    "slug": "decidueye-hisui",
+    "zh": "狙射树枭(洗翠)",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "height": 16,
+    "weight": 370,
+    "api": 10244
+  },
+  "0128-p": {
+    "base": "0128",
+    "kind": "paldea",
+    "slug": "tauros-paldea-combat",
+    "zh": "肯泰罗(帕底亚·斗战种)",
+    "types": [
+      "fighting"
+    ],
+    "height": 14,
+    "weight": 1150,
+    "api": 10250
+  },
+  "0128-p2": {
+    "base": "0128",
+    "kind": "paldea",
+    "slug": "tauros-paldea-blaze",
+    "zh": "肯泰罗(帕底亚·火炽种)",
+    "types": [
+      "fighting",
+      "fire"
+    ],
+    "height": 14,
+    "weight": 850,
+    "api": 10251
+  },
+  "0128-p3": {
+    "base": "0128",
+    "kind": "paldea",
+    "slug": "tauros-paldea-aqua",
+    "zh": "肯泰罗(帕底亚·水澜种)",
+    "types": [
+      "fighting",
+      "water"
+    ],
+    "height": 14,
+    "weight": 1100,
+    "api": 10252
+  },
+  "0194-p": {
+    "base": "0194",
+    "kind": "paldea",
+    "slug": "wooper-paldea",
+    "zh": "乌波(帕底亚)",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "height": 4,
+    "weight": 110,
+    "api": 10253
+  },
+  "0003-gx": {
+    "base": "0003",
+    "kind": "gmax",
+    "slug": "venusaur-gmax",
+    "zh": "超极巨妙蛙花",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "height": 240,
+    "weight": 10000,
+    "api": 10195
+  },
+  "0006-gx": {
+    "base": "0006",
+    "kind": "gmax",
+    "slug": "charizard-gmax",
+    "zh": "超极巨喷火龙",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "height": 280,
+    "weight": 10000,
+    "api": 10196
+  },
+  "0009-gx": {
+    "base": "0009",
+    "kind": "gmax",
+    "slug": "blastoise-gmax",
+    "zh": "超极巨水箭龟",
+    "types": [
+      "water"
+    ],
+    "height": 250,
+    "weight": 10000,
+    "api": 10197
+  },
+  "0012-gx": {
+    "base": "0012",
+    "kind": "gmax",
+    "slug": "butterfree-gmax",
+    "zh": "超极巨巴大蝶",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "height": 170,
+    "weight": 10000,
+    "api": 10198
+  },
+  "0025-gx": {
+    "base": "0025",
+    "kind": "gmax",
+    "slug": "pikachu-gmax",
+    "zh": "超极巨皮卡丘",
+    "types": [
+      "electric"
+    ],
+    "height": 210,
+    "weight": 10000,
+    "api": 10199
+  },
+  "0052-gx": {
+    "base": "0052",
+    "kind": "gmax",
+    "slug": "meowth-gmax",
+    "zh": "超极巨喵喵",
+    "types": [
+      "normal"
+    ],
+    "height": 330,
+    "weight": 10000,
+    "api": 10200
+  },
+  "0068-gx": {
+    "base": "0068",
+    "kind": "gmax",
+    "slug": "machamp-gmax",
+    "zh": "超极巨怪力",
+    "types": [
+      "fighting"
+    ],
+    "height": 250,
+    "weight": 10000,
+    "api": 10201
+  },
+  "0094-gx": {
+    "base": "0094",
+    "kind": "gmax",
+    "slug": "gengar-gmax",
+    "zh": "超极巨耿鬼",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "height": 200,
+    "weight": 10000,
+    "api": 10202
+  },
+  "0099-gx": {
+    "base": "0099",
+    "kind": "gmax",
+    "slug": "kingler-gmax",
+    "zh": "超极巨巨钳蟹",
+    "types": [
+      "water"
+    ],
+    "height": 190,
+    "weight": 10000,
+    "api": 10203
+  },
+  "0131-gx": {
+    "base": "0131",
+    "kind": "gmax",
+    "slug": "lapras-gmax",
+    "zh": "超极巨拉普拉斯",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "height": 240,
+    "weight": 10000,
+    "api": 10204
+  },
+  "0133-gx": {
+    "base": "0133",
+    "kind": "gmax",
+    "slug": "eevee-gmax",
+    "zh": "超极巨伊布",
+    "types": [
+      "normal"
+    ],
+    "height": 180,
+    "weight": 10000,
+    "api": 10205
+  },
+  "0143-gx": {
+    "base": "0143",
+    "kind": "gmax",
+    "slug": "snorlax-gmax",
+    "zh": "超极巨卡比兽",
+    "types": [
+      "normal"
+    ],
+    "height": 350,
+    "weight": 10000,
+    "api": 10206
+  },
+  "0569-gx": {
+    "base": "0569",
+    "kind": "gmax",
+    "slug": "garbodor-gmax",
+    "zh": "超极巨灰尘山",
+    "types": [
+      "poison"
+    ],
+    "height": 210,
+    "weight": 10000,
+    "api": 10207
+  },
+  "0809-gx": {
+    "base": "0809",
+    "kind": "gmax",
+    "slug": "melmetal-gmax",
+    "zh": "超极巨美录梅塔",
+    "types": [
+      "steel"
+    ],
+    "height": 250,
+    "weight": 10000,
+    "api": 10208
+  },
+  "0812-gx": {
+    "base": "0812",
+    "kind": "gmax",
+    "slug": "rillaboom-gmax",
+    "zh": "超极巨轰擂金刚猩",
+    "types": [
+      "grass"
+    ],
+    "height": 280,
+    "weight": 10000,
+    "api": 10209
+  },
+  "0815-gx": {
+    "base": "0815",
+    "kind": "gmax",
+    "slug": "cinderace-gmax",
+    "zh": "超极巨闪焰王牌",
+    "types": [
+      "fire"
+    ],
+    "height": 270,
+    "weight": 10000,
+    "api": 10210
+  },
+  "0818-gx": {
+    "base": "0818",
+    "kind": "gmax",
+    "slug": "inteleon-gmax",
+    "zh": "超极巨千面避役",
+    "types": [
+      "water"
+    ],
+    "height": 400,
+    "weight": 10000,
+    "api": 10211
+  },
+  "0823-gx": {
+    "base": "0823",
+    "kind": "gmax",
+    "slug": "corviknight-gmax",
+    "zh": "超极巨钢铠鸦",
+    "types": [
+      "flying",
+      "steel"
+    ],
+    "height": 140,
+    "weight": 10000,
+    "api": 10212
+  },
+  "0826-gx": {
+    "base": "0826",
+    "kind": "gmax",
+    "slug": "orbeetle-gmax",
+    "zh": "超极巨以欧路普",
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "height": 140,
+    "weight": 10000,
+    "api": 10213
+  },
+  "0834-gx": {
+    "base": "0834",
+    "kind": "gmax",
+    "slug": "drednaw-gmax",
+    "zh": "超极巨暴噬龟",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "height": 240,
+    "weight": 10000,
+    "api": 10214
+  },
+  "0839-gx": {
+    "base": "0839",
+    "kind": "gmax",
+    "slug": "coalossal-gmax",
+    "zh": "超极巨巨炭山",
+    "types": [
+      "rock",
+      "fire"
+    ],
+    "height": 420,
+    "weight": 10000,
+    "api": 10215
+  },
+  "0841-gx": {
+    "base": "0841",
+    "kind": "gmax",
+    "slug": "flapple-gmax",
+    "zh": "超极巨苹裹龙",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "height": 240,
+    "weight": 10000,
+    "api": 10216
+  },
+  "0842-gx": {
+    "base": "0842",
+    "kind": "gmax",
+    "slug": "appletun-gmax",
+    "zh": "超极巨丰蜜龙",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "height": 240,
+    "weight": 10000,
+    "api": 10217
+  },
+  "0844-gx": {
+    "base": "0844",
+    "kind": "gmax",
+    "slug": "sandaconda-gmax",
+    "zh": "超极巨沙螺蟒",
+    "types": [
+      "ground"
+    ],
+    "height": 220,
+    "weight": 10000,
+    "api": 10218
+  },
+  "0849-gx": {
+    "base": "0849",
+    "kind": "gmax",
+    "slug": "toxtricity-gmax",
+    "zh": "超极巨颤弦蝾螈",
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "height": 240,
+    "weight": 10000,
+    "api": 10219
+  },
+  "0851-gx": {
+    "base": "0851",
+    "kind": "gmax",
+    "slug": "centiskorch-gmax",
+    "zh": "超极巨焚焰蚣",
+    "types": [
+      "fire",
+      "bug"
+    ],
+    "height": 750,
+    "weight": 10000,
+    "api": 10220
+  },
+  "0858-gx": {
+    "base": "0858",
+    "kind": "gmax",
+    "slug": "hatterene-gmax",
+    "zh": "超极巨布莉姆温",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "height": 260,
+    "weight": 10000,
+    "api": 10221
+  },
+  "0861-gx": {
+    "base": "0861",
+    "kind": "gmax",
+    "slug": "grimmsnarl-gmax",
+    "zh": "超极巨长毛巨魔",
+    "types": [
+      "dark",
+      "fairy"
+    ],
+    "height": 320,
+    "weight": 10000,
+    "api": 10222
+  },
+  "0869-gx": {
+    "base": "0869",
+    "kind": "gmax",
+    "slug": "alcremie-gmax",
+    "zh": "超极巨霜奶仙",
+    "types": [
+      "fairy"
+    ],
+    "height": 300,
+    "weight": 10000,
+    "api": 10223
+  },
+  "0879-gx": {
+    "base": "0879",
+    "kind": "gmax",
+    "slug": "copperajah-gmax",
+    "zh": "超极巨大王铜象",
+    "types": [
+      "steel"
+    ],
+    "height": 230,
+    "weight": 10000,
+    "api": 10224
+  },
+  "0884-gx": {
+    "base": "0884",
+    "kind": "gmax",
+    "slug": "duraludon-gmax",
+    "zh": "超极巨铝钢龙",
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "height": 430,
+    "weight": 10000,
+    "api": 10225
+  },
+  "0892-gx": {
+    "base": "0892",
+    "kind": "gmax",
+    "slug": "urshifu-gmax",
+    "zh": "超极巨武道熊师",
+    "types": [
+      "fighting",
+      "dark"
+    ],
+    "height": 290,
+    "weight": 10000,
+    "api": 10226
+  }
+}

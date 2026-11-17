@@ -1,0 +1,350 @@
+[
+ {
+  "id": "oran-berry",
+  "zh": "橙橙果"
+ },
+ {
+  "id": "sitrus-berry",
+  "zh": "文柚果"
+ },
+ {
+  "id": "cheri-berry",
+  "zh": "樱子果"
+ },
+ {
+  "id": "pecha-berry",
+  "zh": "桃桃果"
+ },
+ {
+  "id": "rawst-berry",
+  "zh": "莓莓果"
+ },
+ {
+  "id": "leppa-berry",
+  "zh": "苹野果"
+ },
+ {
+  "id": "lum-berry",
+  "zh": "木子果"
+ },
+ {
+  "id": "razz-berry",
+  "zh": "蔓莓果"
+ },
+ {
+  "id": "nanab-berry",
+  "zh": "蕉香果"
+ },
+ {
+  "id": "pinap-berry",
+  "zh": "凰梨果"
+ },
+ {
+  "id": "moomoo-milk",
+  "zh": "哞哞鲜奶"
+ },
+ {
+  "id": "fresh-water",
+  "zh": "美味之水"
+ },
+ {
+  "id": "lemonade",
+  "zh": "劲爽汽水"
+ },
+ {
+  "id": "soda-pop",
+  "zh": "苏打水"
+ },
+ {
+  "id": "rare-candy",
+  "zh": "神奇糖果"
+ },
+ {
+  "id": "berry-juice",
+  "zh": "树果汁"
+ },
+ {
+  "id": "casteliacone",
+  "zh": "飞云冰淇淋"
+ },
+ {
+  "id": "lumiose-galette",
+  "zh": "密阿雷格雷派饼"
+ },
+ {
+  "id": "shalour-sable",
+  "zh": "娑罗沙布蕾"
+ },
+ {
+  "id": "big-malasada",
+  "zh": "大马拉萨达"
+ },
+ {
+  "id": "rage-candy-bar",
+  "zh": "愤怒馒头"
+ },
+ {
+  "id": "sweet-heart",
+  "zh": "心形甜点"
+ },
+ {
+  "id": "lava-cookie",
+  "zh": "熔岩饼干"
+ },
+ {
+  "id": "old-gateau",
+  "zh": "森之羊羹"
+ },
+ {
+  "id": "aguav-berry",
+  "zh": "乐芭果"
+ },
+ {
+  "id": "apicot-berry",
+  "zh": "杏仔果"
+ },
+ {
+  "id": "aspear-berry",
+  "zh": "利木果"
+ },
+ {
+  "id": "babiri-berry",
+  "zh": "霹霹果"
+ },
+ {
+  "id": "belue-berry",
+  "zh": "靛莓果"
+ },
+ {
+  "id": "bluk-berry",
+  "zh": "墨莓果"
+ },
+ {
+  "id": "charti-berry",
+  "zh": "草蚕果"
+ },
+ {
+  "id": "chesto-berry",
+  "zh": "零余果"
+ },
+ {
+  "id": "chilan-berry",
+  "zh": "灯浆果"
+ },
+ {
+  "id": "chople-berry",
+  "zh": "莲蒲果"
+ },
+ {
+  "id": "coba-berry",
+  "zh": "棱瓜果"
+ },
+ {
+  "id": "colbur-berry",
+  "zh": "刺耳果"
+ },
+ {
+  "id": "cornn-berry",
+  "zh": "玉黍果"
+ },
+ {
+  "id": "custap-berry",
+  "zh": "释陀果"
+ },
+ {
+  "id": "durin-berry",
+  "zh": "金枕果"
+ },
+ {
+  "id": "enigma-berry",
+  "zh": "谜芝果"
+ },
+ {
+  "id": "figy-berry",
+  "zh": "勿花果"
+ },
+ {
+  "id": "ganlon-berry",
+  "zh": "龙睛果"
+ },
+ {
+  "id": "grepa-berry",
+  "zh": "萄葡果"
+ },
+ {
+  "id": "haban-berry",
+  "zh": "莓榴果"
+ },
+ {
+  "id": "hondew-berry",
+  "zh": "哈密果"
+ },
+ {
+  "id": "iapapa-berry",
+  "zh": "芭亚果"
+ },
+ {
+  "id": "jaboca-berry",
+  "zh": "嘉珍果"
+ },
+ {
+  "id": "kasib-berry",
+  "zh": "佛柑果"
+ },
+ {
+  "id": "kebia-berry",
+  "zh": "通通果"
+ },
+ {
+  "id": "kee-berry",
+  "zh": "亚开果"
+ },
+ {
+  "id": "kelpsy-berry",
+  "zh": "藻根果"
+ },
+ {
+  "id": "lansat-berry",
+  "zh": "兰萨果"
+ },
+ {
+  "id": "liechi-berry",
+  "zh": "枝荔果"
+ },
+ {
+  "id": "mago-berry",
+  "zh": "芒芒果"
+ },
+ {
+  "id": "magost-berry",
+  "zh": "岳竹果"
+ },
+ {
+  "id": "maranga-berry",
+  "zh": "香罗果"
+ },
+ {
+  "id": "micle-berry",
+  "zh": "奇秘果"
+ },
+ {
+  "id": "nomel-berry",
+  "zh": "檬柠果"
+ },
+ {
+  "id": "occa-berry",
+  "zh": "巧可果"
+ },
+ {
+  "id": "pamtre-berry",
+  "zh": "椰木果"
+ },
+ {
+  "id": "passho-berry",
+  "zh": "千香果"
+ },
+ {
+  "id": "payapa-berry",
+  "zh": "福禄果"
+ },
+ {
+  "id": "persim-berry",
+  "zh": "柿仔果"
+ },
+ {
+  "id": "petaya-berry",
+  "zh": "龙火果"
+ },
+ {
+  "id": "pomeg-berry",
+  "zh": "榴石果"
+ },
+ {
+  "id": "qualot-berry",
+  "zh": "比巴果"
+ },
+ {
+  "id": "rabuta-berry",
+  "zh": "茸丹果"
+ },
+ {
+  "id": "rindo-berry",
+  "zh": "罗子果"
+ },
+ {
+  "id": "roseli-berry",
+  "zh": "洛玫果"
+ },
+ {
+  "id": "rowap-berry",
+  "zh": "雾莲果"
+ },
+ {
+  "id": "salac-berry",
+  "zh": "沙鳞果"
+ },
+ {
+  "id": "shuca-berry",
+  "zh": "腰木果"
+ },
+ {
+  "id": "spelon-berry",
+  "zh": "刺角果"
+ },
+ {
+  "id": "starf-berry",
+  "zh": "星桃果"
+ },
+ {
+  "id": "tamato-berry",
+  "zh": "茄番果"
+ },
+ {
+  "id": "tanga-berry",
+  "zh": "扁樱果"
+ },
+ {
+  "id": "wacan-berry",
+  "zh": "烛木果"
+ },
+ {
+  "id": "watmel-berry",
+  "zh": "瓜西果"
+ },
+ {
+  "id": "wepear-berry",
+  "zh": "西梨果"
+ },
+ {
+  "id": "wiki-berry",
+  "zh": "异奇果"
+ },
+ {
+  "id": "yache-berry",
+  "zh": "番荔果"
+ },
+ {
+  "id": "honey",
+  "zh": "甜甜蜜"
+ },
+ {
+  "id": "leftovers",
+  "zh": "吃剩的东西"
+ },
+ {
+  "id": "revival-herb",
+  "zh": "复活草"
+ },
+ {
+  "id": "energy-powder",
+  "zh": "元气粉"
+ },
+ {
+  "id": "energy-root",
+  "zh": "元气根"
+ },
+ {
+  "id": "heal-powder",
+  "zh": "万能粉"
+ }
+]

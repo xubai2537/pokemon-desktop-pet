@@ -1,0 +1,74 @@
+#!/usr/bin/osascript -l JavaScript
+// pokecut.jxa — subject cutout via Apple's Vision framework, no compilation needed.
+//
+// Uses VNGenerateForegroundInstanceMaskRequest, the same engine behind Preview's
+// "Remove Background" and iOS subject lifting. Unlike a flood-fill cutout it copes
+// with cluttered rooms, sofas/blankets, head-on portraits and pets lying down.
+//
+// We drive it through the JXA ObjC bridge on purpose: shipping a compiled Swift
+// helper would need swiftc at install time plus code signing, while osascript is
+// already present and signed on every macOS.
+//
+// Usage: osascript -l JavaScript pokecut.jxa <input-image> <output.png>
+// Prints "ok <w>x<h> instances=<n>" on success; "ERR <reason>" otherwise.
+
+ObjC.import('Foundation');
+ObjC.import('AppKit');
+ObjC.import('CoreImage');
+ObjC.import('Vision');
+
+function run(argv) {
+  if (argv.length < 2) return 'ERR usage: pokecut.jxa <input> <output.png>';
+  var inPath = argv[0];
+  var outPath = argv[1];
+
+  var fm = $.NSFileManager.defaultManager;
+  if (!fm.fileExistsAtPath(inPath)) return 'ERR input not found';
+
+  var inURL = $.NSURL.fileURLWithPath(inPath);
+  var outURL = $.NSURL.fileURLWithPath(outPath);
+
+  // initWithURLOptions lets Vision decode the file itself, so we never have to
+  // marshal a CGImage pointer through the bridge (and EXIF orientation is honoured).
+  var handler = $.VNImageRequestHandler.alloc.initWithURLOptions(inURL, $());
+  if (!handler.js && !handler) return 'ERR cannot open image';
+
+  var req = $.VNGenerateForegroundInstanceMaskRequest.alloc.init;
+  var reqs = $.NSArray.arrayWithObject(req);
+
+  var err = Ref();
+  var ok = handler.performRequestsError(reqs, err);
+  if (!ok) return 'ERR vision failed';
+
+  var results = req.results;
+  if (!results || results.count === 0) return 'ERR no subject found';
+  var obs = results.objectAtIndex(0);
+
+  var instances = obs.allInstances;
+  if (!instances || instances.count === 0) return 'ERR no subject found';
+
+  // Keep every detected instance and crop tight to the subject.
+  // Real selector: generateMaskedImageOfInstances:fromRequestHandler:inPlace:
+  //                croppedToInstancesExtent:error:
+  var err2 = Ref();
+  var pixelBuffer = obs.generateMaskedImageOfInstancesFromRequestHandlerInPlaceCroppedToInstancesExtentError(
+    instances, handler, false, true, err2
+  );
+  if (!pixelBuffer) return 'ERR mask generation failed';
+
+  var ci = $.CIImage.imageWithCVPixelBuffer(pixelBuffer);
+  if (!ci) return 'ERR cannot wrap pixel buffer';
+
+  var ctx = $.CIContext.context;
+  var cs = $.CGColorSpaceCreateWithName($.kCGColorSpaceSRGB);
+  var err3 = Ref();
+  // kCIFormatRGBA8 == 24
+  var wrote = ctx.writePNGRepresentationOfImageToURLFormatColorSpaceOptionsError(
+    ci, outURL, 24, cs, $({}), err3
+  );
+  if (!wrote) return 'ERR png write failed';
+
+  var ext = ci.extent;
+  return 'ok ' + Math.round(ext.size.width) + 'x' + Math.round(ext.size.height) +
+         ' instances=' + instances.count;
+}

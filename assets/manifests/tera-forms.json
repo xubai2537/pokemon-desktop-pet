@@ -1,0 +1,22 @@
+{
+  "0006-tera": { "base": "0006", "teraType": "dragon", "zh": "太晶喷火龙", "en": "Tera Charizard", "url": "https://media.52poke.com/wiki/4/47/Masters006TDragon.png" },
+  "0094-tera": { "base": "0094", "teraType": "ghost", "zh": "太晶耿鬼", "en": "Tera Gengar", "url": "https://media.52poke.com/wiki/9/94/Masters094TGhost.png" },
+  "0157-tera": { "base": "0157", "teraType": "poison", "zh": "太晶火暴兽(洗翠)", "en": "Tera Typhlosion-H", "url": "https://media.52poke.com/wiki/e/ee/Masters157HTPoison.png" },
+  "0162-tera": { "base": "0162", "teraType": "ice", "zh": "太晶大尾立", "en": "Tera Furret", "url": "https://media.52poke.com/wiki/7/72/Masters162TIce.png" },
+  "0185-tera": { "base": "0185", "teraType": "grass", "zh": "太晶树才怪", "en": "Tera Sudowoodo", "url": "https://media.52poke.com/wiki/4/4e/Masters185TGrass.png" },
+  "0217-tera": { "base": "0217", "teraType": "bug", "zh": "太晶圈圈熊", "en": "Tera Ursaring", "url": "https://media.52poke.com/wiki/6/69/Masters217TBug_f.png" },
+  "0219-tera": { "base": "0219", "teraType": "fire", "zh": "太晶熔岩蜗牛", "en": "Tera Magcargo", "url": "https://media.52poke.com/wiki/a/aa/Masters219TFire.png" },
+  "0469-tera": { "base": "0469", "teraType": "bug", "zh": "太晶远古巨蜻", "en": "Tera Yanmega", "url": "https://media.52poke.com/wiki/f/fb/Masters469TBug.png" },
+  "0547-tera": { "base": "0547", "teraType": "dark", "zh": "太晶风妖精", "en": "Tera Whimsicott", "url": "https://media.52poke.com/wiki/f/f1/Masters547TDark.png" },
+  "0641-tera": { "base": "0641", "teraType": "flying", "zh": "太晶龙卷云", "en": "Tera Tornadus", "url": "https://media.52poke.com/wiki/d/de/Masters641T.png" },
+  "0642-tera": { "base": "0642", "teraType": "electric", "zh": "太晶雷电云", "en": "Tera Thundurus", "url": "https://media.52poke.com/wiki/f/f8/Masters642T.png" },
+  "0748-tera": { "base": "0748", "teraType": "poison", "zh": "太晶超�的坚", "en": "Tera Toxapex", "url": "https://media.52poke.com/wiki/c/c6/Masters748TPoison.png" },
+  "0775-tera": { "base": "0775", "teraType": "normal", "zh": "太晶树枕尾熊", "en": "Tera Komala", "url": "https://media.52poke.com/wiki/2/20/Masters775TNormal.png" },
+  "0815-tera": { "base": "0815", "teraType": "rock", "zh": "太晶闪焰王牌", "en": "Tera Cinderace", "url": "https://media.52poke.com/wiki/d/df/Masters815TRock.png" },
+  "0977-tera": { "base": "0977", "teraType": "dragon", "zh": "太晶吃吞大人", "en": "Tera Dondozo", "url": "https://media.52poke.com/wiki/5/5e/Masters977TDragon_s.png" },
+  "1013-tera": { "base": "1013", "teraType": "grass", "zh": "太晶来悲茶", "en": "Tera Sinistcha", "url": "https://media.52poke.com/wiki/1/17/Masters1013TGrass.png" },
+  "1017-tera": { "base": "1017", "teraType": "grass", "zh": "太晶厄诡椪", "en": "Tera Ogerpon", "url": "https://media.52poke.com/wiki/2/2e/Masters1017T.png" },
+  "1018-tera": { "base": "1018", "teraType": "dragon", "zh": "太晶铝钢桥龙", "en": "Tera Archaludon", "url": "https://media.52poke.com/wiki/5/56/Masters1018TDragon.png" },
+  "1019-tera": { "base": "1019", "teraType": "fighting", "zh": "太晶蜜集大蛇", "en": "Tera Hydrapple", "url": "https://media.52poke.com/wiki/d/d0/Masters1019TFighting.png" },
+  "1024-tera": { "base": "1024", "teraType": "stellar", "zh": "太晶太乐巴戈斯", "en": "Tera Terapagos", "url": "https://media.52poke.com/wiki/f/f3/Masters1024T.png" }
+}

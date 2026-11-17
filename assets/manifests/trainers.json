@@ -1,0 +1,2072 @@
+{
+  "red": {
+    "zh": "赤红",
+    "role": "主角",
+    "styles": {
+      "pixel": "red",
+      "pixel-retro": "red-gen1"
+    }
+  },
+  "blue": {
+    "zh": "青绿",
+    "role": "劲敌",
+    "styles": {
+      "pixel": "blue",
+      "pixel-retro": "blue-gen1"
+    }
+  },
+  "ethan": {
+    "zh": "阿响",
+    "role": "主角",
+    "styles": {
+      "pixel": "ethan",
+      "pixel-retro": "ethan-gen2"
+    }
+  },
+  "lyra": {
+    "zh": "琴音",
+    "role": "主角",
+    "styles": {
+      "pixel": "lyra",
+      "artwork": "琴音_Masters"
+    }
+  },
+  "brendan": {
+    "zh": "小遥",
+    "role": "主角",
+    "styles": {
+      "pixel": "brendan",
+      "pixel-retro": "brendan-gen3"
+    }
+  },
+  "may": {
+    "zh": "小光",
+    "role": "主角",
+    "styles": {
+      "pixel": "may",
+      "pixel-retro": "may-gen3"
+    }
+  },
+  "lucas": {
+    "zh": "光辉",
+    "role": "主角",
+    "styles": {
+      "pixel": "lucas"
+    }
+  },
+  "dawn": {
+    "zh": "小光",
+    "role": "主角",
+    "styles": {
+      "pixel": "dawn"
+    }
+  },
+  "hilbert": {
+    "zh": "阿德",
+    "role": "主角",
+    "styles": {
+      "pixel": "hilbert"
+    }
+  },
+  "hilda": {
+    "zh": "雅典娜",
+    "role": "主角",
+    "styles": {
+      "pixel": "hilda"
+    }
+  },
+  "nate": {
+    "zh": "杰克",
+    "role": "主角",
+    "styles": {
+      "pixel": "nate"
+    }
+  },
+  "rosa": {
+    "zh": "媚俗",
+    "role": "主角",
+    "styles": {
+      "pixel": "rosa"
+    }
+  },
+  "calem": {
+    "zh": "卡尔姆",
+    "role": "主角",
+    "styles": {
+      "pixel": "calem"
+    }
+  },
+  "serena": {
+    "zh": "莎莉娜",
+    "role": "主角",
+    "styles": {
+      "pixel": "serena",
+      "artwork": "莎莉娜_Masters"
+    }
+  },
+  "elio": {
+    "zh": "阳",
+    "role": "主角",
+    "styles": {
+      "pixel": "elio"
+    }
+  },
+  "selene": {
+    "zh": "月",
+    "role": "主角",
+    "styles": {
+      "pixel": "selene"
+    }
+  },
+  "victor": {
+    "zh": "马西",
+    "role": "主角",
+    "styles": {
+      "pixel": "victor"
+    }
+  },
+  "gloria": {
+    "zh": "悠莉",
+    "role": "主角",
+    "styles": {
+      "pixel": "gloria"
+    }
+  },
+  "cynthia": {
+    "zh": "竹兰",
+    "role": "冠军",
+    "styles": {
+      "pixel": "cynthia",
+      "pixel-retro": "cynthia-gen4"
+    }
+  },
+  "steven": {
+    "zh": "大吾",
+    "role": "冠军",
+    "styles": {
+      "pixel": "steven",
+      "pixel-retro": "steven-gen3"
+    }
+  },
+  "wallace": {
+    "zh": "米可利",
+    "role": "冠军",
+    "styles": {
+      "pixel": "wallace",
+      "pixel-retro": "wallace-gen3"
+    }
+  },
+  "lance": {
+    "zh": "阿柳",
+    "role": "冠军",
+    "styles": {
+      "pixel": "lance",
+      "pixel-retro": "lance-gen1"
+    }
+  },
+  "giovanni": {
+    "zh": "阪木",
+    "role": "火箭队老大",
+    "styles": {
+      "pixel": "giovanni",
+      "pixel-retro": "giovanni-gen1"
+    }
+  },
+  "misty": {
+    "zh": "小霞",
+    "role": "馆主",
+    "styles": {
+      "pixel": "misty",
+      "pixel-retro": "misty-gen1",
+      "artwork": "小霞_Masters"
+    }
+  },
+  "brock": {
+    "zh": "小刚",
+    "role": "馆主",
+    "styles": {
+      "pixel": "brock",
+      "pixel-retro": "brock-gen1"
+    }
+  },
+  "erika": {
+    "zh": "莉佳",
+    "role": "馆主",
+    "styles": {
+      "pixel": "erika",
+      "pixel-retro": "erika-gen1"
+    }
+  },
+  "koga": {
+    "zh": "阿桔",
+    "role": "馆主",
+    "styles": {
+      "pixel": "koga",
+      "pixel-retro": "koga-gen1"
+    }
+  },
+  "blaine": {
+    "zh": "夏伯",
+    "role": "馆主",
+    "styles": {
+      "pixel": "blaine",
+      "pixel-retro": "blaine-gen1"
+    }
+  },
+  "sabrina": {
+    "zh": "娜姿",
+    "role": "馆主",
+    "styles": {
+      "pixel": "sabrina",
+      "pixel-retro": "sabrina-gen1"
+    }
+  },
+  "gardenia": {
+    "zh": "菜种",
+    "role": "馆主",
+    "styles": {
+      "pixel": "gardenia",
+      "artwork": "菊子_Masters"
+    }
+  },
+  "will": {
+    "zh": "一树",
+    "role": "四天王",
+    "styles": {
+      "pixel": "will"
+    }
+  },
+  "karen": {
+    "zh": "梨花",
+    "role": "四天王",
+    "styles": {
+      "pixel": "karen",
+      "pixel-retro": "karen-gen2"
+    }
+  },
+  "oak": {
+    "zh": "大木博士",
+    "role": "博士",
+    "styles": {
+      "pixel": "oak",
+      "pixel-retro": "oak-gen1"
+    }
+  },
+  "rowan": {
+    "zh": "纳纳卡玛多",
+    "role": "博士",
+    "styles": {
+      "pixel": "rowan"
+    }
+  },
+  "juniper": {
+    "zh": "红豆杏",
+    "role": "博士",
+    "styles": {
+      "pixel": "juniper"
+    }
+  },
+  "kukui": {
+    "zh": "克拉比",
+    "role": "博士",
+    "styles": {
+      "pixel": "kukui"
+    }
+  },
+  "n": {
+    "zh": "N",
+    "role": "反派",
+    "styles": {
+      "pixel": "n"
+    }
+  },
+  "lysandre": {
+    "zh": "弗拉达利",
+    "role": "反派",
+    "styles": {
+      "pixel": "lysandre"
+    }
+  },
+  "guzma": {
+    "zh": "古兹马",
+    "role": "反派",
+    "styles": {
+      "pixel": "guzma"
+    }
+  },
+  "hop": {
+    "zh": "赫普",
+    "role": "劲敌",
+    "styles": {
+      "pixel": "hop"
+    }
+  },
+  "marnie": {
+    "zh": "玛俐",
+    "role": "劲敌",
+    "styles": {
+      "pixel": "marnie"
+    }
+  },
+  "bede": {
+    "zh": "彼特",
+    "role": "劲敌",
+    "styles": {
+      "pixel": "bede",
+      "artwork": "彼特_Masters"
+    }
+  },
+  "leon": {
+    "zh": "丹帝",
+    "role": "冠军",
+    "styles": {
+      "pixel": "leon",
+      "artwork": "丹帝_Masters"
+    }
+  },
+  "raihan": {
+    "zh": "奇巴纳",
+    "role": "馆主",
+    "styles": {
+      "pixel": "raihan"
+    }
+  },
+  "nessa": {
+    "zh": "露璃娜",
+    "role": "馆主",
+    "styles": {
+      "pixel": "nessa",
+      "artwork": "露璃娜_Masters"
+    }
+  },
+  "proton": {
+    "zh": "兰斯",
+    "role": "火箭队干部",
+    "styles": {
+      "pixel": "proton"
+    }
+  },
+  "petrel": {
+    "zh": "拉姆达",
+    "role": "火箭队干部",
+    "styles": {
+      "pixel": "petrel"
+    }
+  },
+  "archer": {
+    "zh": "阿波罗",
+    "role": "火箭队干部",
+    "styles": {
+      "pixel": "archer"
+    }
+  },
+  "ariana": {
+    "zh": "阿蕾亚",
+    "role": "火箭队干部",
+    "styles": {
+      "pixel": "ariana"
+    }
+  },
+  "rocketgrunt": {
+    "zh": "火箭队小兵♂",
+    "role": "火箭队",
+    "styles": {
+      "pixel": "rocketgrunt"
+    }
+  },
+  "rocketgruntf": {
+    "zh": "火箭队小兵♀",
+    "role": "火箭队",
+    "styles": {
+      "pixel": "rocketgruntf"
+    }
+  },
+  "teamrocket": {
+    "zh": "火箭队三人组",
+    "role": "武藏+小次郎+喵喵",
+    "styles": {
+      "pixel": "teamrocket"
+    }
+  },
+  "nurse": {
+    "zh": "乔伊小姐",
+    "role": "宝可梦中心",
+    "styles": {
+      "pixel": "nurse",
+      "artwork": "乔伊小姐_XY"
+    }
+  },
+  "policeman": {
+    "zh": "巡查",
+    "role": "城镇治安",
+    "styles": {
+      "pixel": "policeman"
+    }
+  },
+  "beauty": {
+    "zh": "大姐姐",
+    "role": "训练家",
+    "styles": {
+      "pixel": "beauty"
+    }
+  },
+  "lady": {
+    "zh": "千金小姐",
+    "role": "训练家",
+    "styles": {
+      "pixel": "lady"
+    }
+  },
+  "madame": {
+    "zh": "贵妇人",
+    "role": "训练家",
+    "styles": {
+      "pixel": "madame"
+    }
+  },
+  "parasollady": {
+    "zh": "阳伞姐姐",
+    "role": "训练家",
+    "styles": {
+      "pixel": "parasollady"
+    }
+  },
+  "scientist": {
+    "zh": "研究员",
+    "role": "训练家",
+    "styles": {
+      "pixel": "scientist"
+    }
+  },
+  "acetrainer": {
+    "zh": "精英训练家♂",
+    "role": "训练家",
+    "styles": {
+      "pixel": "acetrainer"
+    }
+  },
+  "acetrainerf": {
+    "zh": "精英训练家♀",
+    "role": "训练家",
+    "styles": {
+      "pixel": "acetrainerf"
+    }
+  },
+  "jessie": {
+    "zh": "武藏",
+    "role": "火箭队",
+    "styles": {
+      "artwork": "武藏_Masters"
+    }
+  },
+  "james": {
+    "zh": "小次郎",
+    "role": "火箭队",
+    "styles": {
+      "artwork": "小次郎_Masters"
+    }
+  },
+  "jenny": {
+    "zh": "君莎小姐",
+    "role": "城镇治安",
+    "styles": {
+      "artwork": "君莎_EP"
+    }
+  },
+  "ash": {
+    "zh": "小智",
+    "role": "主角",
+    "styles": {
+      "artwork": "小智_Masters"
+    }
+  },
+  "bruno": {
+    "zh": "希巴",
+    "role": "四天王",
+    "styles": {
+      "artwork": "希巴_Masters"
+    }
+  },
+  "lorelei": {
+    "zh": "科拿",
+    "role": "四天王",
+    "styles": {
+      "artwork": "科拿_Masters"
+    }
+  },
+  "steven2": {
+    "zh": "大吾",
+    "role": "冠军",
+    "styles": {
+      "artwork": "大吾_Masters"
+    }
+  },
+  "dawn2": {
+    "zh": "小光",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小光_Masters"
+    }
+  },
+  "pryce": {
+    "zh": "柳伯",
+    "role": "道馆馆主",
+    "styles": {
+      "artwork": "柳伯_Masters"
+    }
+  },
+  "giovanni-art": {
+    "zh": "阪木",
+    "role": "火箭队老大",
+    "styles": {
+      "artwork": "坂木_Masters"
+    }
+  },
+  "flannery": {
+    "zh": "夏伯",
+    "role": "道馆馆主",
+    "styles": {
+      "artwork": "夏伯_Masters"
+    }
+  },
+  "lillie": {
+    "zh": "莉莉艾",
+    "role": "训练家",
+    "styles": {
+      "artwork": "莉莉艾_Masters"
+    }
+  },
+  "lance-art": {
+    "zh": "阿渡",
+    "role": "冠军",
+    "styles": {
+      "artwork": "阿渡_Masters"
+    }
+  },
+  "winona": {
+    "zh": "千里",
+    "role": "道馆馆主",
+    "styles": {
+      "artwork": "千里_Masters"
+    }
+  },
+  "drake": {
+    "zh": "大葉",
+    "role": "四天王",
+    "styles": {
+      "artwork": "大葉_Masters"
+    }
+  },
+  "phoebe": {
+    "zh": "芙蓉",
+    "role": "四天王",
+    "styles": {
+      "artwork": "芙蓉_Masters"
+    }
+  },
+  "sidney": {
+    "zh": "花月",
+    "role": "四天王",
+    "styles": {
+      "artwork": "花月_Masters"
+    }
+  },
+  "erika-art": {
+    "zh": "莉佳",
+    "role": "道馆馆主",
+    "styles": {
+      "artwork": "莉佳_Masters"
+    }
+  },
+  "alder": {
+    "zh": "阿戴克",
+    "role": "冠军",
+    "styles": {
+      "artwork": "阿戴克_Masters"
+    }
+  },
+  "lusamine-art": {
+    "zh": "露莎米奈",
+    "role": "以太基金会",
+    "styles": {
+      "artwork": "露莎米奈_Masters"
+    }
+  },
+  "wallace-art": {
+    "zh": "米可利",
+    "role": "冠军",
+    "styles": {
+      "artwork": "米可利_Masters"
+    }
+  },
+  "art-一樹": {
+    "zh": "一樹",
+    "role": "馆主",
+    "styles": {
+      "artwork": "一樹_Masters"
+    }
+  },
+  "art-丹瑜": {
+    "zh": "丹瑜",
+    "role": "馆主",
+    "styles": {
+      "artwork": "丹瑜_Masters"
+    }
+  },
+  "art-亞堤": {
+    "zh": "亞堤",
+    "role": "馆主",
+    "styles": {
+      "artwork": "亞堤_Masters"
+    }
+  },
+  "art-亞洛": {
+    "zh": "亞洛",
+    "role": "四天王",
+    "styles": {
+      "artwork": "亞洛_Masters"
+    }
+  },
+  "art-亞玄": {
+    "zh": "亞玄",
+    "role": "训练家",
+    "styles": {
+      "artwork": "亞玄_Masters"
+    }
+  },
+  "art-亞莎": {
+    "zh": "亞莎",
+    "role": "四天王",
+    "styles": {
+      "artwork": "亞莎_Masters"
+    }
+  },
+  "art-亞莎美": {
+    "zh": "亞莎美",
+    "role": "训练家",
+    "styles": {
+      "artwork": "亞莎美_Masters"
+    }
+  },
+  "art-伊利馬": {
+    "zh": "伊利馬",
+    "role": "队长",
+    "styles": {
+      "artwork": "伊利馬_Masters"
+    }
+  },
+  "art-伯特": {
+    "zh": "伯特",
+    "role": "训练家",
+    "styles": {
+      "artwork": "伯特_Masters"
+    }
+  },
+  "art-俐卡": {
+    "zh": "俐卡",
+    "role": "训练家",
+    "styles": {
+      "artwork": "俐卡_Masters"
+    }
+  },
+  "art-克拉拉": {
+    "zh": "克拉拉",
+    "role": "劲敌",
+    "styles": {
+      "artwork": "克拉拉_Masters"
+    }
+  },
+  "art-克拉韋爾": {
+    "zh": "克拉韋爾",
+    "role": "博士",
+    "styles": {
+      "artwork": "克拉韋爾_Masters"
+    }
+  },
+  "art-克麗絲": {
+    "zh": "克麗絲",
+    "role": "主角",
+    "styles": {
+      "artwork": "克麗絲_Masters"
+    }
+  },
+  "art-冰雹": {
+    "zh": "冰雹",
+    "role": "训练家",
+    "styles": {
+      "artwork": "冰雹_Masters"
+    }
+  },
+  "art-剛石": {
+    "zh": "剛石",
+    "role": "训练家",
+    "styles": {
+      "artwork": "剛石_Masters"
+    }
+  },
+  "art-卡奇": {
+    "zh": "卡奇",
+    "role": "队长",
+    "styles": {
+      "artwork": "卡奇_Masters"
+    }
+  },
+  "art-卡希麗": {
+    "zh": "卡希麗",
+    "role": "训练家",
+    "styles": {
+      "artwork": "卡希麗_Masters"
+    }
+  },
+  "art-卡蕪": {
+    "zh": "卡蕪",
+    "role": "训练家",
+    "styles": {
+      "artwork": "卡蕪_Masters"
+    }
+  },
+  "art-卡露妮": {
+    "zh": "卡露妮",
+    "role": "训练家",
+    "styles": {
+      "artwork": "卡露妮_Masters"
+    }
+  },
+  "art-卡魯穆": {
+    "zh": "卡魯穆",
+    "role": "主角",
+    "styles": {
+      "artwork": "卡魯穆_Masters"
+    }
+  },
+  "art-古茲馬": {
+    "zh": "古茲馬",
+    "role": "反派",
+    "styles": {
+      "artwork": "古茲馬_Masters"
+    }
+  },
+  "art-古魯夏": {
+    "zh": "古魯夏",
+    "role": "馆主",
+    "styles": {
+      "artwork": "古魯夏_Masters"
+    }
+  },
+  "art-可爾妮": {
+    "zh": "可爾妮",
+    "role": "馆主",
+    "styles": {
+      "artwork": "可爾妮_Masters"
+    }
+  },
+  "art-吉尼亞": {
+    "zh": "吉尼亞",
+    "role": "训练家",
+    "styles": {
+      "artwork": "吉尼亞_Masters"
+    }
+  },
+  "art-吉憲": {
+    "zh": "吉憲",
+    "role": "训练家",
+    "styles": {
+      "artwork": "吉憲_Masters"
+    }
+  },
+  "art-哈奇庫": {
+    "zh": "哈奇庫",
+    "role": "训练家",
+    "styles": {
+      "artwork": "哈奇庫_Masters"
+    }
+  },
+  "art-哈奇酷俠": {
+    "zh": "哈奇酷俠",
+    "role": "训练家",
+    "styles": {
+      "artwork": "哈奇酷俠_Masters"
+    }
+  },
+  "art-哈拉": {
+    "zh": "哈拉",
+    "role": "训练家",
+    "styles": {
+      "artwork": "哈拉_Masters"
+    }
+  },
+  "art-哈普烏": {
+    "zh": "哈普烏",
+    "role": "训练家",
+    "styles": {
+      "artwork": "哈普烏_Masters"
+    }
+  },
+  "art-哈烏": {
+    "zh": "哈烏",
+    "role": "训练家",
+    "styles": {
+      "artwork": "哈烏_Masters"
+    }
+  },
+  "art-夏卡": {
+    "zh": "夏卡",
+    "role": "训练家",
+    "styles": {
+      "artwork": "夏卡_Masters"
+    }
+  },
+  "art-大麗": {
+    "zh": "大麗",
+    "role": "训练家",
+    "styles": {
+      "artwork": "大麗_Masters"
+    }
+  },
+  "art-天桐": {
+    "zh": "天桐",
+    "role": "训练家",
+    "styles": {
+      "artwork": "天桐_Masters"
+    }
+  },
+  "art-奇巴納": {
+    "zh": "奇巴納",
+    "role": "馆主",
+    "styles": {
+      "artwork": "奇巴納_Masters"
+    }
+  },
+  "art-奇樹": {
+    "zh": "奇樹",
+    "role": "训练家",
+    "styles": {
+      "artwork": "奇樹_Masters"
+    }
+  },
+  "art-奈奈彩": {
+    "zh": "奈奈彩",
+    "role": "训练家",
+    "styles": {
+      "artwork": "奈奈彩_Masters"
+    }
+  },
+  "art-奧利薇": {
+    "zh": "奧利薇",
+    "role": "训练家",
+    "styles": {
+      "artwork": "奧利薇_Masters"
+    }
+  },
+  "art-妮莫": {
+    "zh": "妮莫",
+    "role": "劲敌",
+    "styles": {
+      "artwork": "妮莫_Masters"
+    }
+  },
+  "art-娜姿": {
+    "zh": "娜姿",
+    "role": "馆主",
+    "styles": {
+      "artwork": "娜姿_Masters"
+    }
+  },
+  "art-娜琪": {
+    "zh": "娜琪",
+    "role": "训练家",
+    "styles": {
+      "artwork": "娜琪_Masters"
+    }
+  },
+  "art-婉龍": {
+    "zh": "婉龍",
+    "role": "训练家",
+    "styles": {
+      "artwork": "婉龍_Masters"
+    }
+  },
+  "art-寇恩": {
+    "zh": "寇恩",
+    "role": "训练家",
+    "styles": {
+      "artwork": "寇恩_Masters"
+    }
+  },
+  "art-寇沙": {
+    "zh": "寇沙",
+    "role": "训练家",
+    "styles": {
+      "artwork": "寇沙_Masters"
+    }
+  },
+  "art-小優": {
+    "zh": "小優",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小優_Masters"
+    }
+  },
+  "art-小剛": {
+    "zh": "小剛",
+    "role": "馆主",
+    "styles": {
+      "artwork": "小剛_Masters"
+    }
+  },
+  "art-小勝": {
+    "zh": "小勝",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小勝_Masters"
+    }
+  },
+  "art-小南": {
+    "zh": "小南",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小南_Masters"
+    }
+  },
+  "art-小悠": {
+    "zh": "小悠",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小悠_Masters"
+    }
+  },
+  "art-小春": {
+    "zh": "小春",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小春_Masters"
+    }
+  },
+  "art-小椿": {
+    "zh": "小椿",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小椿_Masters"
+    }
+  },
+  "art-小楓": {
+    "zh": "小楓",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小楓_Masters"
+    }
+  },
+  "art-小照": {
+    "zh": "小照",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小照_Masters"
+    }
+  },
+  "art-小結": {
+    "zh": "小結",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小結_Masters"
+    }
+  },
+  "art-小茜": {
+    "zh": "小茜",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小茜_Masters"
+    }
+  },
+  "art-小菊兒": {
+    "zh": "小菊兒",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小菊兒_Masters"
+    }
+  },
+  "art-小菘": {
+    "zh": "小菘",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小菘_Masters"
+    }
+  },
+  "art-小薊": {
+    "zh": "小薊",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小薊_Masters"
+    }
+  },
+  "art-小遙": {
+    "zh": "小遙",
+    "role": "主角",
+    "styles": {
+      "artwork": "小遙_Masters"
+    }
+  },
+  "art-小銀": {
+    "zh": "小銀",
+    "role": "劲敌",
+    "styles": {
+      "artwork": "小銀_Masters"
+    }
+  },
+  "art-小陽": {
+    "zh": "小陽",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小陽_Masters"
+    }
+  },
+  "art-小青": {
+    "zh": "小青",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小青_Masters"
+    }
+  },
+  "art-小驅": {
+    "zh": "小驅",
+    "role": "训练家",
+    "styles": {
+      "artwork": "小驅_Masters"
+    }
+  },
+  "art-希嘉娜": {
+    "zh": "希嘉娜",
+    "role": "训练家",
+    "styles": {
+      "artwork": "希嘉娜_Masters"
+    }
+  },
+  "art-希特隆": {
+    "zh": "希特隆",
+    "role": "馆主",
+    "styles": {
+      "artwork": "希特隆_Masters"
+    }
+  },
+  "art-帕琦拉": {
+    "zh": "帕琦拉",
+    "role": "训练家",
+    "styles": {
+      "artwork": "帕琦拉_Masters"
+    }
+  },
+  "art-庫庫伊": {
+    "zh": "庫庫伊",
+    "role": "博士",
+    "styles": {
+      "artwork": "庫庫伊_Masters"
+    }
+  },
+  "art-弗拉達利": {
+    "zh": "弗拉達利",
+    "role": "反派",
+    "styles": {
+      "artwork": "弗拉達利_Masters"
+    }
+  },
+  "art-彩豆": {
+    "zh": "彩豆",
+    "role": "训练家",
+    "styles": {
+      "artwork": "彩豆_Masters"
+    }
+  },
+  "art-得撫": {
+    "zh": "得撫",
+    "role": "训练家",
+    "styles": {
+      "artwork": "得撫_Masters"
+    }
+  },
+  "art-志米": {
+    "zh": "志米",
+    "role": "训练家",
+    "styles": {
+      "artwork": "志米_Masters"
+    }
+  },
+  "art-悟松": {
+    "zh": "悟松",
+    "role": "训练家",
+    "styles": {
+      "artwork": "悟松_Masters"
+    }
+  },
+  "art-拉姆達": {
+    "zh": "拉姆達",
+    "role": "训练家",
+    "styles": {
+      "artwork": "拉姆達_Masters"
+    }
+  },
+  "art-捩木": {
+    "zh": "捩木",
+    "role": "训练家",
+    "styles": {
+      "artwork": "捩木_Masters"
+    }
+  },
+  "art-明耀": {
+    "zh": "明耀",
+    "role": "训练家",
+    "styles": {
+      "artwork": "明耀_Masters"
+    }
+  },
+  "art-明輝": {
+    "zh": "明輝",
+    "role": "训练家",
+    "styles": {
+      "artwork": "明輝_Masters"
+    }
+  },
+  "art-晝珠": {
+    "zh": "晝珠",
+    "role": "训练家",
+    "styles": {
+      "artwork": "晝珠_Masters"
+    }
+  },
+  "art-望羅": {
+    "zh": "望羅",
+    "role": "训练家",
+    "styles": {
+      "artwork": "望羅_Masters"
+    }
+  },
+  "art-朝蜜": {
+    "zh": "朝蜜",
+    "role": "训练家",
+    "styles": {
+      "artwork": "朝蜜_Masters"
+    }
+  },
+  "art-朵拉塞娜": {
+    "zh": "朵拉塞娜",
+    "role": "训练家",
+    "styles": {
+      "artwork": "朵拉塞娜_Masters"
+    }
+  },
+  "art-杜娟": {
+    "zh": "杜娟",
+    "role": "训练家",
+    "styles": {
+      "artwork": "杜娟_Masters"
+    }
+  },
+  "art-杜若": {
+    "zh": "杜若",
+    "role": "训练家",
+    "styles": {
+      "artwork": "杜若_Masters"
+    }
+  },
+  "art-松葉": {
+    "zh": "松葉",
+    "role": "训练家",
+    "styles": {
+      "artwork": "松葉_Masters"
+    }
+  },
+  "art-枇琶": {
+    "zh": "枇琶",
+    "role": "训练家",
+    "styles": {
+      "artwork": "枇琶_Masters"
+    }
+  },
+  "art-查克洛": {
+    "zh": "查克洛",
+    "role": "训练家",
+    "styles": {
+      "artwork": "查克洛_Masters"
+    }
+  },
+  "art-格拉吉歐": {
+    "zh": "格拉吉歐",
+    "role": "劲敌",
+    "styles": {
+      "artwork": "格拉吉歐_Masters"
+    }
+  },
+  "art-桄榔": {
+    "zh": "桄榔",
+    "role": "训练家",
+    "styles": {
+      "artwork": "桄榔_Masters"
+    }
+  },
+  "art-桐華": {
+    "zh": "桐華",
+    "role": "训练家",
+    "styles": {
+      "artwork": "桐華_Masters"
+    }
+  },
+  "art-梅洛可": {
+    "zh": "梅洛可",
+    "role": "训练家",
+    "styles": {
+      "artwork": "梅洛可_Masters"
+    }
+  },
+  "art-梅麗莎": {
+    "zh": "梅麗莎",
+    "role": "馆主",
+    "styles": {
+      "artwork": "梅麗莎_Masters"
+    }
+  },
+  "art-梧桐": {
+    "zh": "梧桐",
+    "role": "训练家",
+    "styles": {
+      "artwork": "梧桐_Masters"
+    }
+  },
+  "art-梨花": {
+    "zh": "梨花",
+    "role": "训练家",
+    "styles": {
+      "artwork": "梨花_Masters"
+    }
+  },
+  "art-棘兒": {
+    "zh": "棘兒",
+    "role": "训练家",
+    "styles": {
+      "artwork": "棘兒_Masters"
+    }
+  },
+  "art-歐尼奧": {
+    "zh": "歐尼奧",
+    "role": "训练家",
+    "styles": {
+      "artwork": "歐尼奧_Masters"
+    }
+  },
+  "art-步美": {
+    "zh": "步美",
+    "role": "训练家",
+    "styles": {
+      "artwork": "步美_Masters"
+    }
+  },
+  "art-歲星": {
+    "zh": "歲星",
+    "role": "训练家",
+    "styles": {
+      "artwork": "歲星_Masters"
+    }
+  },
+  "art-水京": {
+    "zh": "水京",
+    "role": "训练家",
+    "styles": {
+      "artwork": "水京_Masters"
+    }
+  },
+  "art-水梧桐": {
+    "zh": "水梧桐",
+    "role": "训练家",
+    "styles": {
+      "artwork": "水梧桐_Masters"
+    }
+  },
+  "art-水蓮": {
+    "zh": "水蓮",
+    "role": "训练家",
+    "styles": {
+      "artwork": "水蓮_Masters"
+    }
+  },
+  "art-汐音": {
+    "zh": "汐音",
+    "role": "训练家",
+    "styles": {
+      "artwork": "汐音_Masters"
+    }
+  },
+  "art-沙儷": {
+    "zh": "沙儷",
+    "role": "训练家",
+    "styles": {
+      "artwork": "沙儷_Masters"
+    }
+  },
+  "art-波妮": {
+    "zh": "波妮",
+    "role": "训练家",
+    "styles": {
+      "artwork": "波妮_Masters"
+    }
+  },
+  "art-波琵": {
+    "zh": "波琵",
+    "role": "训练家",
+    "styles": {
+      "artwork": "波琵_Masters"
+    }
+  },
+  "art-洛茲": {
+    "zh": "洛茲",
+    "role": "训练家",
+    "styles": {
+      "artwork": "洛茲_Masters"
+    }
+  },
+  "art-派帕": {
+    "zh": "派帕",
+    "role": "劲敌",
+    "styles": {
+      "artwork": "派帕_Masters"
+    }
+  },
+  "art-源治": {
+    "zh": "源治",
+    "role": "训练家",
+    "styles": {
+      "artwork": "源治_Masters"
+    }
+  },
+  "art-滿充": {
+    "zh": "滿充",
+    "role": "训练家",
+    "styles": {
+      "artwork": "滿充_Masters"
+    }
+  },
+  "art-火夏": {
+    "zh": "火夏",
+    "role": "训练家",
+    "styles": {
+      "artwork": "火夏_Masters"
+    }
+  },
+  "art-火村": {
+    "zh": "火村",
+    "role": "训练家",
+    "styles": {
+      "artwork": "火村_Masters"
+    }
+  },
+  "art-火雁": {
+    "zh": "火雁",
+    "role": "训练家",
+    "styles": {
+      "artwork": "火雁_Masters"
+    }
+  },
+  "art-烏栗": {
+    "zh": "烏栗",
+    "role": "训练家",
+    "styles": {
+      "artwork": "烏栗_Masters"
+    }
+  },
+  "art-牡丹": {
+    "zh": "牡丹",
+    "role": "训练家",
+    "styles": {
+      "artwork": "牡丹_Masters"
+    }
+  },
+  "art-珠貝": {
+    "zh": "珠貝",
+    "role": "训练家",
+    "styles": {
+      "artwork": "珠貝_Masters"
+    }
+  },
+  "art-琉琪亞": {
+    "zh": "琉琪亞",
+    "role": "训练家",
+    "styles": {
+      "artwork": "琉琪亞_Masters"
+    }
+  },
+  "art-瑪俐": {
+    "zh": "瑪俐",
+    "role": "劲敌",
+    "styles": {
+      "artwork": "瑪俐_Masters"
+    }
+  },
+  "art-瑪奧": {
+    "zh": "瑪奧",
+    "role": "训练家",
+    "styles": {
+      "artwork": "瑪奧_Masters"
+    }
+  },
+  "art-瑪琪艾兒": {
+    "zh": "瑪琪艾兒",
+    "role": "训练家",
+    "styles": {
+      "artwork": "瑪琪艾兒_Masters"
+    }
+  },
+  "art-瑪瓜": {
+    "zh": "瑪瓜",
+    "role": "训练家",
+    "styles": {
+      "artwork": "瑪瓜_Masters"
+    }
+  },
+  "art-瑪綉": {
+    "zh": "瑪綉",
+    "role": "训练家",
+    "styles": {
+      "artwork": "瑪綉_Masters"
+    }
+  },
+  "art-瓢太": {
+    "zh": "瓢太",
+    "role": "训练家",
+    "styles": {
+      "artwork": "瓢太_Masters"
+    }
+  },
+  "art-生彩": {
+    "zh": "生彩",
+    "role": "训练家",
+    "styles": {
+      "artwork": "生彩_Masters"
+    }
+  },
+  "art-白露": {
+    "zh": "白露",
+    "role": "训练家",
+    "styles": {
+      "artwork": "白露_Masters"
+    }
+  },
+  "art-皮拿": {
+    "zh": "皮拿",
+    "role": "训练家",
+    "styles": {
+      "artwork": "皮拿_Masters"
+    }
+  },
+  "art-石蘭": {
+    "zh": "石蘭",
+    "role": "训练家",
+    "styles": {
+      "artwork": "石蘭_Masters"
+    }
+  },
+  "art-福爺": {
+    "zh": "福爺",
+    "role": "训练家",
+    "styles": {
+      "artwork": "福爺_Masters"
+    }
+  },
+  "art-秋明": {
+    "zh": "秋明",
+    "role": "训练家",
+    "styles": {
+      "artwork": "秋明_Masters"
+    }
+  },
+  "art-竹蘭": {
+    "zh": "竹蘭",
+    "role": "馆主",
+    "styles": {
+      "artwork": "竹蘭_Masters"
+    }
+  },
+  "art-米依": {
+    "zh": "米依",
+    "role": "训练家",
+    "styles": {
+      "artwork": "米依_Masters"
+    }
+  },
+  "art-米莫莎": {
+    "zh": "米莫莎",
+    "role": "训练家",
+    "styles": {
+      "artwork": "米莫莎_Masters"
+    }
+  },
+  "art-紅菫": {
+    "zh": "紅菫",
+    "role": "训练家",
+    "styles": {
+      "artwork": "紅菫_Masters"
+    }
+  },
+  "art-紗幽子": {
+    "zh": "紗幽子",
+    "role": "训练家",
+    "styles": {
+      "artwork": "紗幽子_Masters"
+    }
+  },
+  "art-索妮亞": {
+    "zh": "索妮亞",
+    "role": "训练家",
+    "styles": {
+      "artwork": "索妮亞_Masters"
+    }
+  },
+  "art-紫竽": {
+    "zh": "紫竽",
+    "role": "训练家",
+    "styles": {
+      "artwork": "紫竽_Masters"
+    }
+  },
+  "art-紫羅蘭": {
+    "zh": "紫羅蘭",
+    "role": "训练家",
+    "styles": {
+      "artwork": "紫羅蘭_Masters"
+    }
+  },
+  "art-綠菫": {
+    "zh": "綠菫",
+    "role": "训练家",
+    "styles": {
+      "artwork": "綠菫_Masters"
+    }
+  },
+  "art-美月": {
+    "zh": "美月",
+    "role": "训练家",
+    "styles": {
+      "artwork": "美月_Masters"
+    }
+  },
+  "art-美蓉": {
+    "zh": "美蓉",
+    "role": "训练家",
+    "styles": {
+      "artwork": "美蓉_Masters"
+    }
+  },
+  "art-聶凱": {
+    "zh": "聶凱",
+    "role": "训练家",
+    "styles": {
+      "artwork": "聶凱_Masters"
+    }
+  },
+  "art-聶梓": {
+    "zh": "聶梓",
+    "role": "训练家",
+    "styles": {
+      "artwork": "聶梓_Masters"
+    }
+  },
+  "art-艾莉絲": {
+    "zh": "艾莉絲",
+    "role": "冠军",
+    "styles": {
+      "artwork": "艾莉絲_Masters"
+    }
+  },
+  "art-芽米": {
+    "zh": "芽米",
+    "role": "训练家",
+    "styles": {
+      "artwork": "芽米_Masters"
+    }
+  },
+  "art-茉莉": {
+    "zh": "茉莉",
+    "role": "训练家",
+    "styles": {
+      "artwork": "茉莉_Masters"
+    }
+  },
+  "art-莉拉": {
+    "zh": "莉拉",
+    "role": "训练家",
+    "styles": {
+      "artwork": "莉拉_Masters"
+    }
+  },
+  "art-莎娜": {
+    "zh": "莎娜",
+    "role": "训练家",
+    "styles": {
+      "artwork": "莎娜_Masters"
+    }
+  },
+  "art-菊老大": {
+    "zh": "菊老大",
+    "role": "训练家",
+    "styles": {
+      "artwork": "菊老大_Masters"
+    }
+  },
+  "art-菊野": {
+    "zh": "菊野",
+    "role": "训练家",
+    "styles": {
+      "artwork": "菊野_Masters"
+    }
+  },
+  "art-菜種": {
+    "zh": "菜種",
+    "role": "训练家",
+    "styles": {
+      "artwork": "菜種_Masters"
+    }
+  },
+  "art-華蓮": {
+    "zh": "華蓮",
+    "role": "训练家",
+    "styles": {
+      "artwork": "華蓮_Masters"
+    }
+  },
+  "art-葉子": {
+    "zh": "葉子",
+    "role": "训练家",
+    "styles": {
+      "artwork": "葉子_Masters"
+    }
+  },
+  "art-葛吉花": {
+    "zh": "葛吉花",
+    "role": "训练家",
+    "styles": {
+      "artwork": "葛吉花_Masters"
+    }
+  },
+  "art-蓋伊": {
+    "zh": "蓋伊",
+    "role": "训练家",
+    "styles": {
+      "artwork": "蓋伊_Masters"
+    }
+  },
+  "art-蕃石郎": {
+    "zh": "蕃石郎",
+    "role": "训练家",
+    "styles": {
+      "artwork": "蕃石郎_Masters"
+    }
+  },
+  "art-蕾荷": {
+    "zh": "蕾荷",
+    "role": "训练家",
+    "styles": {
+      "artwork": "蕾荷_Masters"
+    }
+  },
+  "art-藍菫": {
+    "zh": "藍菫",
+    "role": "训练家",
+    "styles": {
+      "artwork": "藍菫_Masters"
+    }
+  },
+  "art-藤樹": {
+    "zh": "藤樹",
+    "role": "训练家",
+    "styles": {
+      "artwork": "藤樹_Masters"
+    }
+  },
+  "art-蘆薈": {
+    "zh": "蘆薈",
+    "role": "训练家",
+    "styles": {
+      "artwork": "蘆薈_Masters"
+    }
+  },
+  "art-蘭斯": {
+    "zh": "蘭斯",
+    "role": "训练家",
+    "styles": {
+      "artwork": "蘭斯_Masters"
+    }
+  },
+  "art-螺伯": {
+    "zh": "螺伯",
+    "role": "训练家",
+    "styles": {
+      "artwork": "螺伯_Masters"
+    }
+  },
+  "art-西子伊": {
+    "zh": "西子伊",
+    "role": "训练家",
+    "styles": {
+      "artwork": "西子伊_Masters"
+    }
+  },
+  "art-賽寶利": {
+    "zh": "賽寶利",
+    "role": "训练家",
+    "styles": {
+      "artwork": "賽寶利_Masters"
+    }
+  },
+  "art-赤日": {
+    "zh": "赤日",
+    "role": "训练家",
+    "styles": {
+      "artwork": "赤日_Masters"
+    }
+  },
+  "art-赤焰松": {
+    "zh": "赤焰松",
+    "role": "训练家",
+    "styles": {
+      "artwork": "赤焰松_Masters"
+    }
+  },
+  "art-赤紅": {
+    "zh": "赤紅",
+    "role": "主角",
+    "styles": {
+      "artwork": "赤紅_Masters"
+    }
+  },
+  "art-赫普": {
+    "zh": "赫普",
+    "role": "劲敌",
+    "styles": {
+      "artwork": "赫普_Masters"
+    }
+  },
+  "art-越橘": {
+    "zh": "越橘",
+    "role": "训练家",
+    "styles": {
+      "artwork": "越橘_Masters"
+    }
+  },
+  "art-辛俐": {
+    "zh": "辛俐",
+    "role": "训练家",
+    "styles": {
+      "artwork": "辛俐_Masters"
+    }
+  },
+  "art-連武": {
+    "zh": "連武",
+    "role": "训练家",
+    "styles": {
+      "artwork": "連武_Masters"
+    }
+  },
+  "art-達拉": {
+    "zh": "達拉",
+    "role": "训练家",
+    "styles": {
+      "artwork": "達拉_Masters"
+    }
+  },
+  "art-鎮星": {
+    "zh": "鎮星",
+    "role": "训练家",
+    "styles": {
+      "artwork": "鎮星_Masters"
+    }
+  },
+  "art-鎯琊": {
+    "zh": "鎯琊",
+    "role": "训练家",
+    "styles": {
+      "artwork": "鎯琊_Masters"
+    }
+  },
+  "art-阿修": {
+    "zh": "阿修",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿修_Masters"
+    }
+  },
+  "art-阿四": {
+    "zh": "阿四",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿四_Masters"
+    }
+  },
+  "art-阿李": {
+    "zh": "阿李",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿李_Masters"
+    }
+  },
+  "art-阿杏": {
+    "zh": "阿杏",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿杏_Masters"
+    }
+  },
+  "art-阿柳": {
+    "zh": "阿柳",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿柳_Masters"
+    }
+  },
+  "art-阿桔": {
+    "zh": "阿桔",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿桔_Masters"
+    }
+  },
+  "art-阿楓": {
+    "zh": "阿楓",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿楓_Masters"
+    }
+  },
+  "art-阿泉": {
+    "zh": "阿泉",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿泉_Masters"
+    }
+  },
+  "art-阿波羅": {
+    "zh": "阿波羅",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿波羅_Masters"
+    }
+  },
+  "art-阿潮": {
+    "zh": "阿潮",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿潮_Masters"
+    }
+  },
+  "art-阿球": {
+    "zh": "阿球",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿球_Masters"
+    }
+  },
+  "art-阿筆": {
+    "zh": "阿筆",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿筆_Masters"
+    }
+  },
+  "art-阿米": {
+    "zh": "阿米",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿米_Masters"
+    }
+  },
+  "art-阿蜜": {
+    "zh": "阿蜜",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿蜜_Masters"
+    }
+  },
+  "art-阿速": {
+    "zh": "阿速",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿速_Masters"
+    }
+  },
+  "art-阿響": {
+    "zh": "阿響",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿響_Masters"
+    }
+  },
+  "art-阿馴": {
+    "zh": "阿馴",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿馴_Masters"
+    }
+  },
+  "art-阿齊": {
+    "zh": "阿齊",
+    "role": "训练家",
+    "styles": {
+      "artwork": "阿齊_Masters"
+    }
+  },
+  "art-雁鎧": {
+    "zh": "雁鎧",
+    "role": "冠军",
+    "styles": {
+      "artwork": "雁鎧_Masters"
+    }
+  },
+  "art-雅典娜": {
+    "zh": "雅典娜",
+    "role": "训练家",
+    "styles": {
+      "artwork": "雅典娜_Masters"
+    }
+  },
+  "art-雛菊博士": {
+    "zh": "雛菊博士",
+    "role": "训练家",
+    "styles": {
+      "artwork": "雛菊博士_Masters"
+    }
+  },
+  "art-電次": {
+    "zh": "電次",
+    "role": "训练家",
+    "styles": {
+      "artwork": "電次_Masters"
+    }
+  },
+  "art-霍米加": {
+    "zh": "霍米加",
+    "role": "训练家",
+    "styles": {
+      "artwork": "霍米加_Masters"
+    }
+  },
+  "art-青木": {
+    "zh": "青木",
+    "role": "训练家",
+    "styles": {
+      "artwork": "青木_Masters"
+    }
+  },
+  "art-青綠": {
+    "zh": "青綠",
+    "role": "劲敌",
+    "styles": {
+      "artwork": "青綠_Masters"
+    }
+  },
+  "art-青葙": {
+    "zh": "青葙",
+    "role": "训练家",
+    "styles": {
+      "artwork": "青葙_Masters"
+    }
+  },
+  "art-風露": {
+    "zh": "風露",
+    "role": "训练家",
+    "styles": {
+      "artwork": "風露_Masters"
+    }
+  },
+  "art-馬志士": {
+    "zh": "馬志士",
+    "role": "馆主",
+    "styles": {
+      "artwork": "馬志士_Masters"
+    }
+  },
+  "art-馬瑪內": {
+    "zh": "馬瑪內",
+    "role": "训练家",
+    "styles": {
+      "artwork": "馬瑪內_Masters"
+    }
+  },
+  "art-馬睿因": {
+    "zh": "馬睿因",
+    "role": "训练家",
+    "styles": {
+      "artwork": "馬睿因_Masters"
+    }
+  },
+  "art-鬥也": {
+    "zh": "鬥也",
+    "role": "训练家",
+    "styles": {
+      "artwork": "鬥也_Masters"
+    }
+  },
+  "art-鬥子": {
+    "zh": "鬥子",
+    "role": "训练家",
+    "styles": {
+      "artwork": "鬥子_Masters"
+    }
+  },
+  "art-魁奇思": {
+    "zh": "魁奇思",
+    "role": "训练家",
+    "styles": {
+      "artwork": "魁奇思_Masters"
+    }
+  },
+  "art-鳴依": {
+    "zh": "鳴依",
+    "role": "训练家",
+    "styles": {
+      "artwork": "鳴依_Masters"
+    }
+  },
+  "art-麗姿": {
+    "zh": "麗姿",
+    "role": "训练家",
+    "styles": {
+      "artwork": "麗姿_Masters"
+    }
+  },
+  "art-麗棗": {
+    "zh": "麗棗",
+    "role": "训练家",
+    "styles": {
+      "artwork": "麗棗_Masters"
+    }
+  },
+  "art-黃瓜香": {
+    "zh": "黃瓜香",
+    "role": "训练家",
+    "styles": {
+      "artwork": "黃瓜香_Masters"
+    }
+  },
+  "art-黑連": {
+    "zh": "黑連",
+    "role": "训练家",
+    "styles": {
+      "artwork": "黑連_Masters"
+    }
+  },
+  "art-默丹": {
+    "zh": "默丹",
+    "role": "训练家",
+    "styles": {
+      "artwork": "默丹_Masters"
+    }
+  },
+  "art-龍葵": {
+    "zh": "龍葵",
+    "role": "训练家",
+    "styles": {
+      "artwork": "龍葵_Masters"
+    }
+  },
+  "art-": {
+    "zh": "Ｎ",
+    "role": "反派",
+    "styles": {
+      "artwork": "Ｎ_Masters"
+    }
+  }
+}
